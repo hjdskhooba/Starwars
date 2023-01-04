@@ -1,0 +1,11 @@
+.item-list .list-group-item {
+    cursor: pointer;
+  }
+  
+  .item-list .list-group-item:checked{
+    background-color: rgba(255, 255, 255, 0.267);
+  }
+
+  .item-list .list-group-item:hover {
+    background-color: #444;
+  }

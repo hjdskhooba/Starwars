@@ -1,0 +1,13 @@
+{
+    "header": {
+        "link1": "Home",
+        "link2": "Charakters",
+        "link3": "Planets",
+        "link4": "Starships"
+    },
+    "planets": {
+        "population": "Population: ",
+        "rotation": "Rotation period: ",
+        "diameter": "Diameter: "
+    }
+}
