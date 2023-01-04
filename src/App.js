@@ -8,6 +8,7 @@ import Loyout from './Loyout/Loyout';
 import Faq from './pages/FAQ/Faq';
 import './i18n';
 
+
 const App = () => {
   const [idea, setIdea] = useState(1)
   return (
